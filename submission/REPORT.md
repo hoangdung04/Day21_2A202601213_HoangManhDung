@@ -181,4 +181,4 @@ Tôi sẽ giữ nguyên eval set và cấu hình `correct`, thêm khoảng **1�
 * [ ] B2 dataset miền riêng (`data/CUSTOM_DATASET.md`)
 * [ ] B3 reasoning-trace collapse (hai `MASK_MODE`, kèm `valid_trace_rate`)
 * [ ] B4 quét rank có kiểm soát
-* [ ] B5 HuggingFace Hub — Không thực hiện
+* [x] B5 HuggingFace Hub — https://huggingface.co/Hoangdung04/Day21-LoRA-2A202601213
